@@ -1,0 +1,3 @@
+# singleton
+
+# examples on singleton
